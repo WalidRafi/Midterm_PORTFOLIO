@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.pic-pos {
+    display: flex;
+    justify-content: center;
+}
+
+.profile-pic {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+.name h1 {
+    font-size: 60px;   
+}
+
+nav a {
+    color: whitesmoke;
+}
+
+nav a:hover{
+    background-color: teal;
+}
+
+main{
+    text-align: center;
+    line-height: 40px;
+}
+
+.icons {
+    width: 30px;
+}
+
+footer div{
+    display: flex;
+    justify-content: center;
+}
+
+footer img{
+    padding: 20px 5px;
+}
+
+footer{
+    text-align: center;
+}
+
+.edu-con{
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+}
